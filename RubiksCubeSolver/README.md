@@ -67,4 +67,4 @@ Feel free to fork and contribute advanced move logic or visualizer.
 
 ---
 
-> Built as a self project under AlgoZenith guidance | June 2024
+> Built as a self project under AlgoZenith guidance | June 2025
